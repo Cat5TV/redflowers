@@ -1,0 +1,14 @@
+
+Recoloured textures from other mods:
+
+reddaisy and redtulip textures based on those from flowers mod in minetest_game (WTFPL). 
+grass textures based on default mod in minetest_game (WTFPL). 
+redgrass texture based on junglegrass texture in default mod in minetest_game (assumed to be CC BY-SA 3.0).
+
+
+
+Textures created for this mod:
+
+CC BY-SA 4.0
+https://creativecommons.org/licenses/by-sa/4.0/
+Attribution: Shara RedCat
