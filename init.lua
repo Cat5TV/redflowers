@@ -8,13 +8,13 @@ If you want them to grow naturally, you will have to do that part. This just add
 
 --Red flowers (default recolours)
 
-minetest.register_node("redflowers:reddaisy", {
+minetest.register_node("tps_flowers:reddaisy", {
 	description = "Red Daisy",
 	drawtype = "plantlike",
 	waving = 1,
-	tiles = {"redflowers_reddaisy.png"},
-	inventory_image = "redflowers_reddaisy.png",
-	wield_image = "redflowers_reddaisy.png",
+	tiles = {"tps_flowers_reddaisy.png"},
+	inventory_image = "tps_flowers_reddaisy.png",
+	wield_image = "tps_flowers_reddaisy.png",
 	sunlight_propagates = true,
 	paramtype = "light",
 	walkable = false,
@@ -27,13 +27,13 @@ minetest.register_node("redflowers:reddaisy", {
 		}
 	})
 
-minetest.register_node("redflowers:redtulip", {
+minetest.register_node("tps_flowers:redtulip", {
 	description = "Red Tulip",
 	drawtype = "plantlike",
 	waving = 1,
-	tiles = {"redflowers_redtulip.png"},
-	inventory_image = "redflowers_redtulip.png",
-	wield_image = "redflowers_redtulip.png",
+	tiles = {"tps_flowers_redtulip.png"},
+	inventory_image = "tps_flowers_redtulip.png",
+	wield_image = "tps_flowers_redtulip.png",
 	sunlight_propagates = true,
 	paramtype = "light",
 	walkable = false,
